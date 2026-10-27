@@ -2,6 +2,6 @@
 - 
 
 ---
-### 
+### Malesh's Divining Practice
 - Diviner **Malesh**.
 
