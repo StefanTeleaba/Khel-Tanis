@@ -1,6 +1,5 @@
 # Vasil
 - Lady **Emma Everfrost**
-
     - Ruler of the city
     - Ancient Silver Dragon
     - She was in love with a jeweler 2000 years ago.

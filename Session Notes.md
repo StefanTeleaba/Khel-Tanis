@@ -11,7 +11,7 @@ Qyestions:
     - We stay friends.
     - He knows everyone and everyhing that goes on in the *Port of Gorst*.
     - He employs four Tuskards divers.
-    - He wants to marry his daughter to **Fein**.
+    - He wants to marry his niece to **Fein**.
 - Rumours from the Summit:
     - Unlikely attendants that were present: **Desmond de la Vega**, **Kallavan Ashborn**, **Syln Argentbow**, **The Blood Emperor**, **The Soul King**, **The Night King**.
     - The summit was attacked by three nautiloid ships.
